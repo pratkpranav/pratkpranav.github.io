@@ -21,16 +21,15 @@
 title: Pratik Pranav
 email: pratkpranav@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi! I'm Pratik/
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: pratkpranac
+twitter_username: PratikPranav11
 github_username:  pratkpranav
 
 # Build settings
 theme: minima
-plugins:
-  - jekyll-feed
+minima:
+  skin: solarized-dark # If using minima, choose a skin
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -40,7 +39,9 @@ plugins:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
+exclude:
+  - _posts/
+  - about.markdown
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
