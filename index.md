@@ -12,7 +12,7 @@ I am Pratik Pranav, currently working as an AI Engineer at ThirdAI Corp. At Thir
 
 **Distributed Training Framework for BoLT**: In my first six months at ThirdAI, I was tasked with implementing the Distributed Training Framework for our internal machine learning library, BoLT. My work also extended to incorporating distributed training in other ThirdAI offerings, such as the Universal Deep Transformer (UDT) and ThirdAI's NeuralDB. Here is a joint article with Anyscale detailing our work: [Anyscale Blog Post](https://www.anyscale.com/blog/how-thirdai-uses-ray-for-parallel-training-of-billion-parameter-neural-networks-on-commodity-cpus).
 
-**Bolt2.5B**: I played a significant role in the development of ThirdAI's LLM, including the architecture design, training, and deployment of Bolt2.5B. This project was challenging due to its emphasis on CPU-based training, necessitating innovative system solutions. For more details, see the ThirdAI Medium article: [ThirdAI Medium Post](https://medium.com/thirdai-blog/introducing-the-worlds-first-generative-llm-pre-trained-only-on-cpus-meet-thirdai-s-bolt2-5b-10c0600e1af4).
+**Bolt2.5B**: Lately, I have been working on the development of ThirdAI's LLM, including the architecture design, training, and deployment of Bolt2.5B. This project was challenging due to its emphasis on CPU-based training, necessitating innovative system solutions. For more details, see the ThirdAI Medium article: [ThirdAI Medium Post](https://medium.com/thirdai-blog/introducing-the-worlds-first-generative-llm-pre-trained-only-on-cpus-meet-thirdai-s-bolt2-5b-10c0600e1af4).
 
 ---
 
