@@ -5,7 +5,7 @@ title: "Pratik Pranav"
 ---
 
 ## Hello Everyone!
-I am Pratik Pranav, currently working as an AI Engineer at ThirdAI Corp. At ThirdAI, our focus is on training machine learning models on CPUs using dynamic sparsity. My role involves the intersection of machine learning and systems, emphasizing the practical and scalable implementation of machine learning technologies. Lately, I have been training/finetuning Language Models, and often COING
+I am Pratik Pranav, currently working as an AI Engineer at ThirdAI Corp. At ThirdAI, our focus is on training machine learning models on CPUs using dynamic sparsity. My role involves the intersection of machine learning and systems, emphasizing the practical and scalable implementation of machine learning technologies.
 
 ---
 
@@ -19,13 +19,13 @@ I am Pratik Pranav, currently working as an AI Engineer at ThirdAI Corp. At Thir
 
 ### Papers
 
-<a href="https://dl.acm.org/doi/abs/10.1145/3583780.3615458" style="color: blue;">**BOLT: An Automated Deep Learning Framework for Training and Deploying Large-Scale Search and Recommendation Models on Commodity CPU Hardware**</a>  
+**BOLT: An Automated Deep Learning Framework for Training and Deploying Large-Scale Search and Recommendation Models on Commodity CPU Hardware**  
 Authors: Nicholas Meisburger, Vihan Lakshman, Benito Geordie, Joshua Engels, David Torres Ramos, **Pratik Pranav**, Benjamin Coleman, Benjamin Meisburger, Shubh Gupta, Yashwanth Adunukota, Siddharth Jain, Tharun Medini, Anshumali Shrivastava  
-Accepted at ACM International Conference on Information and Knowledge Management 2023  
+[ACM Digital Library](https://dl.acm.org/doi/abs/10.1145/3583780.3615458)
 
-<a href="https://dl.acm.org/doi/10.1145/3604915.3610249" style="color: blue;">**From Research to Production: Towards Scalable and Sustainable Neural Recommendation Models on Commodity CPU Hardware**</a>  
+**From Research to Production: Towards Scalable and Sustainable Neural Recommendation Models on Commodity CPU Hardware**  
 Authors: Anshumali Shrivastava, Vihan Lakshman, Tharun Medini, Nicholas Meisburger, Joshua Engels, David Torres Ramos, Benito Geordie, **Pratik Pranav**, Shubh Gupta, Yashwanth Adunukota, Siddharth Jain  
-Accepted at ACM Conference on Recommender Systems 2023
+[ACM Digital Library](https://dl.acm.org/doi/10.1145/3604915.3610249)
 
 ---
 
