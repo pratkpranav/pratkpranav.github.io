@@ -21,11 +21,11 @@ I am Pratik Pranav, currently working as an AI Engineer at ThirdAI Corp. At Thir
 
 **BOLT: An Automated Deep Learning Framework for Training and Deploying Large-Scale Search and Recommendation Models on Commodity CPU Hardware**  
 Authors: Nicholas Meisburger, Vihan Lakshman, Benito Geordie, Joshua Engels, David Torres Ramos, **Pratik Pranav**, Benjamin Coleman, Benjamin Meisburger, Shubh Gupta, Yashwanth Adunukota, Siddharth Jain, Tharun Medini, Anshumali Shrivastava  
-[ACM Digital Library](https://dl.acm.org/doi/abs/10.1145/3583780.3615458)
+[Accepted at ACM International Conference on Information and Knowledge Management 2023](https://dl.acm.org/doi/abs/10.1145/3583780.3615458)
 
 **From Research to Production: Towards Scalable and Sustainable Neural Recommendation Models on Commodity CPU Hardware**  
 Authors: Anshumali Shrivastava, Vihan Lakshman, Tharun Medini, Nicholas Meisburger, Joshua Engels, David Torres Ramos, Benito Geordie, **Pratik Pranav**, Shubh Gupta, Yashwanth Adunukota, Siddharth Jain  
-[ACM Digital Library](https://dl.acm.org/doi/10.1145/3604915.3610249)
+[Accepted at ACM Conference on Recommender Systems 2023](https://dl.acm.org/doi/10.1145/3604915.3610249)
 
 ---
 
