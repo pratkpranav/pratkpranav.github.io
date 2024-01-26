@@ -7,12 +7,6 @@ title: "Pratik Pranav"
 ## Hello Everyone!
 I am Pratik Pranav, currently working as an AI Engineer at ThirdAI Corp. At ThirdAI, our focus is on training machine learning models on CPUs using dynamic sparsity. My role involves the intersection of machine learning and systems, emphasizing the practical and scalable implementation of machine learning technologies.
 
-<p>
-    <a href="https://www.linkedin.com/in/pratik-pranav-92629616b/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
-    <a href="https://twitter.com/PratikPranav11" title="Twitter"><i class="fab fa-twitter"></i></a>
-    <a href="https://github.com/pratkpranav" title="GitHub"><i class="fab fa-github"></i></a>
-</p>
-
 ---
 
 ### My Work
