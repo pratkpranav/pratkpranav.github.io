@@ -1,7 +1,11 @@
 ---
 layout: default
 title: "Pratik Pranav"
-
+<p>
+    <a href="https://www.linkedin.com/in/pratik-pranav-92629616b/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+    <a href="https://twitter.com/PratikPranav11" title="Twitter"><i class="fab fa-twitter"></i></a>
+    <a href="https://github.com/pratkpranav" title="GitHub"><i class="fab fa-github"></i></a>
+</p>
 ---
 
 ## Hello Everyone!
