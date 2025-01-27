@@ -11,13 +11,11 @@ I’m Pratik Pranav, a Senior Software Engineer at ThirdAI Corp. I love developi
 
 ### My Work
 
-**ThirdAI Platform Development**: Led the infrastructure design and core development of ThirdAI's Enterprise Search Platform, ensuring high availability and fault tolerance for critical components. Utilized technologies such as Nomad for orchestration and Consul for health checks, and implemented streamlined deployment processes using Ansible. Integrated secure authentication with Keycloak to provide Single Sign-On (SSO) capabilities, enhancing user management and access control. Successfully scaled the platform, validated its robustness through simulated downtimes, and deployed it to multiple customers, demonstrating its reliability and scalability in production environments.
+**ThirdAI Platform Development**: Led infrastructure design and core development of the Enterprise Search Platform, ensuring high availability and fault tolerance. Leveraged Nomad, Consul, and Ansible for orchestration and deployment, integrated Keycloak for secure SSO, and scaled the platform to multiple customers with validated uptime.
 
-**Distributed Training Framework for BoLT**: In my first six months at ThirdAI, I worked on implementing the Distributed Training Framework for our internal machine learning library, Bolt. My work also included to incorporate distributed training in other ThirdAI offerings, such as the Universal Deep Transformer (UDT) and ThirdAI's NeuralDB. Here is a joint article with Anyscale detailing our work: [Anyscale Blog Post](https://www.anyscale.com/blog/how-thirdai-uses-ray-for-parallel-training-of-billion-parameter-neural-networks-on-commodity-cpus).
+**Distributed Training Framework for BoLT**: Implemented the Distributed Training Framework for ThirdAI's ML library, Bolt, and extended it to UDT and NeuralDB. More details in the joint [Anyscale Blog Post](https://www.anyscale.com/blog/how-thirdai-uses-ray-for-parallel-training-of-billion-parameter-neural-networks-on-commodity-cpus).
 
-**Bolt2.5B**: Lately, I have worked on developing ThirdAI's LLM, Bolt2.5B which includes the architecture design, training, and deployment. This project was challenging due to its emphasis on CPU-based training, necessitating innovative system solutions. For more details, see the ThirdAI Medium article: [ThirdAI Medium Post](https://medium.com/thirdai-blog/introducing-the-worlds-first-generative-llm-pre-trained-only-on-cpus-meet-thirdai-s-bolt2-5b-10c0600e1af4).
-
----
+**Bolt2.5B**: Developed ThirdAI’s CPU-based LLM, Bolt2.5B, focusing on architecture design, training, and deployment. Learn more in the [ThirdAI Medium Post](https://medium.com/thirdai-blog/introducing-the-worlds-first-generative-llm-pre-trained-only-on-cpus-meet-thirdai-s-bolt2-5b-10c0600e1af4).
 
 ### Papers
 
