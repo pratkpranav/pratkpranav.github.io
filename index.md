@@ -27,8 +27,9 @@ Authors: Nicholas Meisburger, Vihan Lakshman, Benito Geordie, Joshua Engels, Dav
 Authors: Anshumali Shrivastava, Vihan Lakshman, Tharun Medini, Nicholas Meisburger, Joshua Engels, David Torres Ramos, Benito Geordie, **Pratik Pranav**, Shubh Gupta, Yashwanth Adunukota, Siddharth Jain  
 [Accepted at ACM Conference on Recommender Systems 2023](https://dl.acm.org/doi/10.1145/3604915.3610249)
 
+---
 
-[Resume](https://pratkpranav.github.io/assets/Resume.pdf)
+[**Resume**](https://pratkpranav.github.io/assets/Resume.pdf)
 
 
 ---
