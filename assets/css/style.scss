@@ -2,3 +2,23 @@
 ---
 
 @import "jekyll-theme-minimal";
+
+.social-links {
+  margin: 20px 0;
+  text-align: center;
+}
+
+.social-links a {
+  display: inline-block;
+  margin: 0 8px;
+  color: #767676;
+  transition: color 0.3s ease;
+}
+
+.social-links a:hover {
+  color: #0366d6;
+}
+
+.social-links svg {
+  vertical-align: middle;
+}
