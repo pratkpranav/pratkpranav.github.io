@@ -5,7 +5,7 @@ title: "Pratik Pranav"
 ---
 
 ## Hello Everyone!
-I’m Pratik Pranav, a Senior Software Engineer at ThirdAI Corp. I love developing scalable machine learning solutions, focusing on efficient model training and building robust systems. In my role, I get to blend machine learning with systems engineering to create reliable and high-performance technologies that make a real impact.
+I'm Pratik Pranav, a Staff ML Engineer at ServiceNow. Previously at ThirdAI Corp (acquired by ServiceNow), I now focus on improving AI Search capabilities at ServiceNow. I love developing scalable machine learning solutions, focusing on efficient model training and building robust systems. In my role, I get to blend machine learning with systems engineering to create reliable and high-performance technologies that make a real impact.
 
 ---
 
@@ -29,7 +29,7 @@ Authors: Anshumali Shrivastava, Vihan Lakshman, Tharun Medini, Nicholas Meisburg
 
 ---
 
-<span style="color:blue; font-weight:bold;">[Resume](https://pratkpranav.github.io/assets/Resume.pdf)</span>
+<span style="color:blue; font-weight:bold;">[Resume](https://pratkpranav.github.io/assets/Resume.pdf)</span> | <span style="color:blue; font-weight:bold;">[Blog](https://pratkpranav.github.io/blog/)</span>
 
 
 ---
