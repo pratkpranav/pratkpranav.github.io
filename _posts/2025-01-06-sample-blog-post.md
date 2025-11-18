@@ -1,12 +1,10 @@
 ---
-layout: default
+layout: post
 title: "Sample Blog Post"
 date: 2025-01-06
+author: Pratik Pranav
+tags: [General, Welcome]
 ---
-
-# Sample Blog Post
-
-*January 6, 2025*
 
 ## Welcome to My Blog!
 
@@ -32,9 +30,3 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 ## Conclusion
 
 This is just a placeholder post to showcase the blog structure. Stay tuned for real content coming soon!
-
----
-
-*Thanks for visiting my blog. More posts coming soon!*
-
-[← Back to Blog](../) | [← Back to Home](../../)
