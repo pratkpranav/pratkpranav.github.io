@@ -5,8 +5,8 @@ title: Blog
 
 <section class="container post-container">
     <div class="blog-header">
-        <h1 class="gradient-text" style="font-size: 3.5rem; margin-bottom: 1rem;">Blog</h1>
-        <p style="color: var(--text-secondary); font-size: 1.2rem; max-width: 600px; margin: 0 auto;">
+        <h1>Blog</h1>
+        <p>
             Thoughts on machine learning, software engineering, and building scalable systems.
         </p>
     </div>
