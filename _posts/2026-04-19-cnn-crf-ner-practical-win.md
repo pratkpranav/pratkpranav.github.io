@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why Our CNN + CRF NER Model Beat BERT in Accuracy and Speed"
+title: "A Practical CNN + CRF NER Model That Beat BERT"
 date: 2026-04-19
 authors:
   - Pratik Pranav
