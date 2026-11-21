@@ -117,15 +117,6 @@ nav {
     gap: 2.5rem;
 }
 
-.eyebrow {
-    margin-bottom: 1rem;
-    color: var(--accent-color);
-    font-size: 0.78rem;
-    font-weight: 700;
-    letter-spacing: 0.09em;
-    text-transform: uppercase;
-}
-
 .intro {
     max-width: 650px;
     color: #3f4945;
