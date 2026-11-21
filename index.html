@@ -35,7 +35,17 @@ title: Pratik Pranav
     </p>
     <p class="inline-links">
         Earlier at ThirdAI, I helped build its enterprise search platform, distributed training systems, and
-        CPU-efficient models. <a href="https://www.anyscale.com/blog/how-thirdai-uses-ray-for-parallel-training-of-billion-parameter-neural-networks-on-commodity-cpus">Distributed training with Ray</a>
+        CPU-efficient models. I was also a maintainer and core contributor to the
+        <a href="https://pypi.org/project/thirdai/">ThirdAI ML Library</a>, where I re-architected the Bolt C++ engine
+        to support arbitrary computation graphs, including multi-output, recurrent, attention, and shared-weight tower
+        architectures. I implemented tiled, SIMD-vectorized kernels and cache-friendly sharding that improved
+        forward and backward throughput by 40% on commodity CPUs. I also built OpenMP-optimized feature pipelines and
+        CI/CD with unit and integration testing, and exposed fine-grained activation and gradient hooks for custom
+        metrics, debugging, and single-batch distributed training loops.
+    </p>
+    <p class="inline-links">
+        Related work:
+        <a href="https://www.anyscale.com/blog/how-thirdai-uses-ray-for-parallel-training-of-billion-parameter-neural-networks-on-commodity-cpus">Distributed training with Ray</a>
         <span aria-hidden="true">·</span>
         <a href="https://medium.com/thirdai-blog/introducing-the-worlds-first-generative-llm-pre-trained-only-on-cpus-meet-thirdai-s-bolt2-5b-10c0600e1af4">Bolt2.5B</a>
     </p>
