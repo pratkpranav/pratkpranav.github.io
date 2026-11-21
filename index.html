@@ -3,16 +3,22 @@ layout: default
 title: Pratik Pranav
 ---
 
-<section class="hero">
+<section class="hero" aria-labelledby="intro-title">
     <div class="hero-content">
         <div class="hero-text">
-            <h1>Hello, I'm Pratik Pranav</h1>
-            <p>Staff ML Engineer at ServiceNow.<br>Prev. ThirdAI (Acquired by ServiceNow)</p>
-            <div class="social-links">
+            <p class="eyebrow">Staff Research Scientist · ServiceNow</p>
+            <h1 id="intro-title">Hello, I’m Pratik.</h1>
+            <p class="intro">
+                I’m Pratik, a Staff Research Scientist at ServiceNow, where I lead research in AI Search and Agentic
+                Search. I build retrieval, ranking, and evaluation systems, taking ideas from research to production.
+                Previously, I was an early engineer at ThirdAI. I’m an IIT Delhi computer science graduate, interested
+                in making AI systems more useful, reliable, and efficient.
+            </p>
+            <div class="social-links" aria-label="Profile links">
                 <a href="https://github.com/pratkpranav">GitHub</a>
                 <a href="https://www.linkedin.com/in/pratik-p-92629616b">LinkedIn</a>
-                <a href="/assets/Resume.pdf">Resume</a>
-                <a href="/blog/">Blog</a>
+                <a href="/assets/Resume.pdf">Résumé</a>
+                <a href="/blog/">Writing</a>
             </div>
         </div>
         <div class="hero-image">
@@ -21,51 +27,34 @@ title: Pratik Pranav
     </div>
 </section>
 
-<section id="work" class="container">
-    <h2 class="section-title">My Work</h2>
-    <div class="grid">
-        <article class="card delay-1">
-            <span class="card-meta">Platform Engineering</span>
-            <h3>ThirdAI Platform Development</h3>
-            <p>Led infrastructure design and core development of the Enterprise Search Platform. Orchestrated with
-                Nomad, Consul, and Ansible for high availability.</p>
-        </article>
-
-        <article class="card delay-2">
-            <span class="card-meta">Machine Learning</span>
-            <h3>Distributed Training Framework</h3>
-            <p>Implemented the Distributed Training Framework for ThirdAI's ML library, Bolt. Extended to UDT and
-                NeuralDB for efficient parallel training.</p>
-            <a href="https://www.anyscale.com/blog/how-thirdai-uses-ray-for-parallel-training-of-billion-parameter-neural-networks-on-commodity-cpus"
-                class="card-link">Read Blog Post →</a>
-        </article>
-
-        <article class="card delay-3">
-            <span class="card-meta">LLM Development</span>
-            <h3>Bolt2.5B</h3>
-            <p>Developed ThirdAI’s CPU-based LLM, Bolt2.5B. Focused on architecture design, training, and deployment on
-                commodity hardware.</p>
-            <a href="https://medium.com/thirdai-blog/introducing-the-worlds-first-generative-llm-pre-trained-only-on-cpus-meet-thirdai-s-bolt2-5b-10c0600e1af4"
-                class="card-link">Read Medium Post →</a>
-        </article>
-    </div>
+<section id="work" class="content-section" aria-labelledby="work-title">
+    <h2 id="work-title">What I work on</h2>
+    <p>
+        My work sits at the intersection of information retrieval and practical machine learning: AI search systems,
+        agentic retrieval, ranking, and the evaluation infrastructure needed to understand whether they actually work.
+        I enjoy the full path from a research question to a dependable production system.
+    </p>
+    <p class="inline-links">
+        Earlier at ThirdAI, I helped build its enterprise search platform, distributed training systems, and
+        CPU-efficient models. <a href="https://www.anyscale.com/blog/how-thirdai-uses-ray-for-parallel-training-of-billion-parameter-neural-networks-on-commodity-cpus">Distributed training with Ray</a>
+        <span aria-hidden="true">·</span>
+        <a href="https://medium.com/thirdai-blog/introducing-the-worlds-first-generative-llm-pre-trained-only-on-cpus-meet-thirdai-s-bolt2-5b-10c0600e1af4">Bolt2.5B</a>
+    </p>
 </section>
 
-<section id="papers" class="container">
-    <h2 class="section-title">Selected Papers</h2>
-    <div class="grid">
-        <article class="card">
-            <span class="card-meta">CIKM 2023</span>
-            <h3>BOLT: An Automated Deep Learning Framework</h3>
-            <p>Training and Deploying Large-Scale Search and Recommendation Models on Commodity CPU Hardware.</p>
-            <a href="https://dl.acm.org/doi/abs/10.1145/3583780.3615458" class="card-link">View Publication →</a>
-        </article>
-
-        <article class="card">
-            <span class="card-meta">RecSys 2023</span>
-            <h3>From Research to Production</h3>
-            <p>Towards Scalable and Sustainable Neural Recommendation Models on Commodity CPU Hardware.</p>
-            <a href="https://dl.acm.org/doi/10.1145/3604915.3610249" class="card-link">View Publication →</a>
-        </article>
+<section id="papers" class="content-section" aria-labelledby="papers-title">
+    <div class="section-heading">
+        <h2 id="papers-title">Selected papers</h2>
+        <p>A small selection of work on efficient search and recommendation systems.</p>
     </div>
+    <ul class="publication-list">
+        <li>
+            <a href="https://dl.acm.org/doi/abs/10.1145/3583780.3615458">BOLT: An Automated Deep Learning Framework for Training and Deploying Large-Scale Search and Recommendation Models on Commodity CPU Hardware</a>
+            <span>CIKM 2023</span>
+        </li>
+        <li>
+            <a href="https://dl.acm.org/doi/10.1145/3604915.3610249">From Research to Production: Towards Scalable and Sustainable Neural Recommendation Models on Commodity CPU Hardware</a>
+            <span>RecSys 2023</span>
+        </li>
+    </ul>
 </section>
